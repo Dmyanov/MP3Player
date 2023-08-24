@@ -1,0 +1,16 @@
+MP3 Player Documents
+
+1. Description
+The project represents a basic python app, able to load .mp3 files and play them.
+Modules used : Tkinter, Pygame, Mutagen, Time and Lyricsgenius.
+
+2. Main components:
+The player includes:
+
+- menu bars: to load songs to the current playlist; to delete songs from the current playlist; to save selected song to a playlist; to load pre-saved playlists
+- scrollable label that displays the lyrics of the current song
+- a label that displays the elapsed time of the total song length
+- sliders: volume - to control the music sound; current song position - that can be slided forward or backward
+- buttons for playing, stopping, pausing the current song, skipping back or forward a song
+- loading songs from a directory
+
